@@ -10,7 +10,7 @@ int main(){
 	}
 	printf("\nSayılar(ilk);\n");
 	for (int i=0;i<10;i++){
-			printf("%d  ",i,a[i]);
+			printf("%d.->%d  ",i+1,a[i]);
 	}
 	int q;
 	for(int c=0;c<4;c++){
